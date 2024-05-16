@@ -1,2 +1,7 @@
-const a = 10 ;
-console.log(a);
+import React from "react";
+
+const test = () => {
+  return <div>test</div>;
+};
+
+export default test;
